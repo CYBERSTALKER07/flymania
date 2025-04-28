@@ -24,13 +24,13 @@ const features = [
     href: "/sold-tickets",
     color: "from-green-500 to-emerald-400"
   },
-  {
-    title: "Отчет агента",
-    description: "Просмотр статистики и эффективности продаж",
-    icon: <BarChart3 className="h-6 w-6" />,
-    href: "/admin",
-    color: "from-purple-500 to-violet-400"
-  },
+  // {
+  //   title: "Отчет агента",
+  //   description: "Просмотр статистики и эффективности продаж",
+  //   icon: <BarChart3 className="h-6 w-6" />,
+  //   href: "/admin",
+  //   color: "from-purple-500 to-violet-400"
+  // },
   {
     title: "Информация об авиалиниях",
     description: "Просмотр информации и деталей авиалиний",

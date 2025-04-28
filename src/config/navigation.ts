@@ -34,24 +34,24 @@ export const navItems: NavItem[] = [
     icon: FileText,
     showFor: "all"
   },
-  { 
-    name: "Панель администратора", 
-    path: "/admin", 
-    icon: BarChart3,
-    showFor: "all"
-  },
+  // { 
+  //   name: "Панель администратора", 
+  //   path: "/admin", 
+  //   icon: BarChart3,
+  //   showFor: "all"
+  // },
   { 
     name: "Предоплаты", 
     path: "/sell-ticket/prepaid", 
     icon: Plus,
     showFor: "all"
   },
-  { 
-    name: "Расширенная аналитика", 
-    path: "/advanced-analytics", 
-    icon: BarChart3,
-    showFor: "admin"
-  },
+  // { 
+  //   name: "Расширенная аналитика", 
+  //   path: "/advanced-analytics", 
+  //   icon: BarChart3,
+  //   showFor: "admin"
+  // },
   { 
     name: "Расходы", 
     path: "/expenses", 
